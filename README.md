@@ -4,8 +4,10 @@
 <p>The News App is a mobile application that allows users to browse and read the latest news articles from various sources. The app provides a user-friendly interface for discovering news from different categories and countries.</p>
 
 <h2>Preview</h2>
-<p>Include some screenshots or GIFs showcasing the app's features and user interface.</p>
-
+  <img src="![ASSIGMENT (1)](https://github.com/jaya2523/News-App/assets/93309776/649313ab-7150-4cf6-93d5-ad1a48a815d5)" alt="Preview Image 1">
+  <img src="![WhatsApp Image 2023-06-18 at 11 40 42](https://github.com/jaya2523/News-App/assets/93309776/36d10b26-220a-41a2-bb8b-19bf87c651c6)" alt="Preview Image 2">
+  <img src="![WhatsApp Image 2023-06-18 at 11 40 41](https://github.com/jaya2523/News-App/assets/93309776/a3a03fde-c808-4762-8a9f-f52a68866955)" alt="Preview Image 3">
+  <img src="![WhatsApp Image 2023-06-18 at 11 40 43](https://github.com/jaya2523/News-App/assets/93309776/c9b5cdf7-8107-4be6-83fb-bf47ba6556e1)" alt="Preview Image 4">
 <h2>Installation</h2>
 <p>To install and run the News App on your system, follow these steps:</p>
 
